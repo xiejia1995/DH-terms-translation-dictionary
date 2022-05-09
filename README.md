@@ -1,13 +1,10 @@
 # DH terms translation dictionary
 数字人文领域学术术语翻译词典
 
-please view the dictionary [here](https://github.com/xiejia1995/DH-terms-translation-dictionary/blob/main/DH-TERMS-TRANSLATION.csv)    
-点击[此处](https://github.com/xiejia1995/DH-terms-translation-dictionary/blob/main/DH-TERMS-TRANSLATION.csv)查看词典
-
 ## Introduction / 简介
-This repo is established for recording common and special terms used in Digital Humanities field, as a reference for other translaters. 
+This repo is established for recording common and special terms used in Digital Humanities field, as a reference for other translaters. Please view the dictionary [here](https://github.com/xiejia1995/DH-terms-translation-dictionary/blob/main/DH-TERMS-TRANSLATION.csv).
 
-本仓库建立的目的是记录DH论文翻译中的常见术语以及特殊表达，供其他翻译者参考。
+本仓库建立的目的是记录DH论文翻译中的常见术语以及特殊表达，供其他翻译者参考。[点击此处](https://github.com/xiejia1995/DH-terms-translation-dictionary/blob/main/DH-TERMS-TRANSLATION.csv)查看词典。
 
 
 
