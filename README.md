@@ -16,7 +16,7 @@ The data is currently stored in a csv file, with one element recorded per cell. 
 
 
 
-| EN                                               | abbr. | ZH1                  | ZH2                  | ZH3  |  JP1                          | KR            |
+| EN                                               | abbr. | ZH1                  | ZH2                  | ZH3  |  JP                          | KR            |
 | ------------------------------------------------ | ----- | -------------------- | -------------------- | ---- | ---------------------------- | ------------- |
 | Digital Humanities                               | DH    | 数字人文             | 数位人文             |      | デジタル・ヒューマニティーズ | 디지털 인문학 |
 | The Alliance of Digital Humanities Organizations | ADHO  | 国际数字人文组织联盟 | 国际数位人文组织联盟 |      |                              |               |
@@ -41,6 +41,6 @@ If you have translation or technical questions, please post in Issues and discus
 
 ## Citation / 引用 
 
-All data in this library is shared open source under the MIT license, so please cite it by specification if possible.
+All data in this repo is shared open-source under the MIT license, so please feel free to take it for yourself. If you have special needs, you may cite it by specification.
 
-本库所有数据以MIT许可方式开源共享，如果可以请按规范引用。
+本库所有数据以MIT许可方式开源共享，请自行随意取用。如有特殊需要，请按规范引用。
