@@ -1,7 +1,7 @@
 # DH terms translation dictionary
 数字人文领域学术术语翻译词典
 
-please view the dictionary [here](https://github.com/xiejia1995/DH-terms-translation-dictionary/blob/main/DH-TERMS-TRANSLATION.csv)
+please view the dictionary [here](https://github.com/xiejia1995/DH-terms-translation-dictionary/blob/main/DH-TERMS-TRANSLATION.csv)    
 点击[此处](https://github.com/xiejia1995/DH-terms-translation-dictionary/blob/main/DH-TERMS-TRANSLATION.csv)查看词典
 
 ## Introduction / 简介
