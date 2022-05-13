@@ -1,4 +1,4 @@
-# DH terms translation dictionary
+# DH terms translation wordbook
 数字人文领域学术术语翻译词典
 
 ## Introduction / 简介
